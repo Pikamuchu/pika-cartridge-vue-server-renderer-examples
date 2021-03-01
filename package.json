@@ -34,7 +34,7 @@
     },
     "homepage": "https://github.com/pikamachu/pika-cartridge-vue-server-renderer-examples",
     "dependencies": {
-        "vue-server-renderer": "0.1.0"
+        "cartridge_lib_vue_server_renderer": "0.1.1"
     },
     "devDependencies": {
         "@babel/cli": "^7.8.4",
